@@ -1,0 +1,205 @@
+------------------------------------------------------------------------
+r31 | archivar | 2009-02-21 20:06:08 +0000 (Sat, 21 Feb 2009) | 2 lines
+Changed paths:
+   A /tags/v1.09 (from /trunk:30)
+
+Code rewritten.
+workaround for update added
+------------------------------------------------------------------------
+r30 | archivar | 2009-02-21 18:44:51 +0000 (Sat, 21 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeaderSlash.lua
+
+update
+------------------------------------------------------------------------
+r29 | archivar | 2009-02-21 18:38:59 +0000 (Sat, 21 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeaderSlash.lua
+
+bugfix
+------------------------------------------------------------------------
+r28 | archivar | 2009-02-21 18:25:09 +0000 (Sat, 21 Feb 2009) | 6 lines
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeaderSlash.lua
+
+New update added.
+new Broadcast options added
+/ptl spam privat
+/ptl spam public
+/ptl spam off
+new architecture
+------------------------------------------------------------------------
+r27 | archivar | 2009-02-21 15:23:41 +0000 (Sat, 21 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeaderSlash.lua
+
+Huge Bugfix
+------------------------------------------------------------------------
+r25 | archivar | 2009-02-20 22:26:33 +0000 (Fri, 20 Feb 2009) | 3 lines
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeaderSlash.lua
+
+reorganisized variables.
+bugfix: icon not shown after login.
+Update: icon scale not saved.
+------------------------------------------------------------------------
+r23 | archivar | 2009-02-20 15:10:30 +0000 (Fri, 20 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeaderSlash.lua
+
+testing new variables structure
+------------------------------------------------------------------------
+r21 | archivar | 2009-02-18 22:18:01 +0000 (Wed, 18 Feb 2009) | 2 lines
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeaderSlash.lua
+
+Added command /ptl noself
+(no Symbol, if i'm the leader)
+------------------------------------------------------------------------
+r19 | archivar | 2009-02-18 03:19:50 +0000 (Wed, 18 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.mod
+
+Version update
+------------------------------------------------------------------------
+r18 | archivar | 2009-02-18 03:17:47 +0000 (Wed, 18 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeaderSlash.lua
+
+Final alpha
+------------------------------------------------------------------------
+r17 | archivar | 2009-02-17 23:13:02 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
+Bugfix; markersymbol now hides after leaving warband
+------------------------------------------------------------------------
+r16 | archivar | 2009-02-17 22:09:19 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
+Debugmessages removed
+------------------------------------------------------------------------
+r15 | archivar | 2009-02-17 21:54:36 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeaderSlash.lua
+
+V1.04 hopefully the last alpha
+------------------------------------------------------------------------
+r14 | archivar | 2009-02-17 21:41:12 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+
+some debugstuff removed
+------------------------------------------------------------------------
+r13 | archivar | 2009-02-17 21:15:44 +0000 (Tue, 17 Feb 2009) | 3 lines
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeader.xml
+   A /trunk/PaintTheLeaderSlash.lua
+
+V1.02 alpha Testversion.
+/ptl on / off
+/ptl scale x   x = Icon Scale in %
+------------------------------------------------------------------------
+r12 | gutgut | 2009-02-17 19:08:31 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
+--seta
+------------------------------------------------------------------------
+r11 | gutgut | 2009-02-17 17:15:29 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
+--- change
+------------------------------------------------------------------------
+r10 | gutgut | 2009-02-17 14:57:42 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeader.xml
+
+- testversion
+------------------------------------------------------------------------
+r9 | gutgut | 2009-02-17 13:30:10 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.xml
+   M /trunk/star.dds
+
+-- change
+------------------------------------------------------------------------
+r8 | gutgut | 2009-02-17 11:12:47 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   A /trunk/star.dds
+
+* added new graph
+------------------------------------------------------------------------
+r7 | gutgut | 2009-02-17 11:10:18 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeader.xml
+   D /trunk/flagge.tga
+
+* changed the sheep
+------------------------------------------------------------------------
+r6 | gutgut | 2009-02-17 01:35:51 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
+-  spielzeug für archivar
+------------------------------------------------------------------------
+r5 | gutgut | 2009-02-17 00:17:05 +0000 (Tue, 17 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.xml
+   A /trunk/flagge.tga
+
+-added pic
+------------------------------------------------------------------------
+r4 | gutgut | 2009-02-16 22:53:52 +0000 (Mon, 16 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+
++leaderfind
+------------------------------------------------------------------------
+r3 | archivar | 2009-02-16 22:27:38 +0000 (Mon, 16 Feb 2009) | 1 line
+Changed paths:
+   M /trunk/PaintTheLeader.lua
+   M /trunk/PaintTheLeader.mod
+   M /trunk/PaintTheLeader.xml
+
+1st Running Hello World Version.
+------------------------------------------------------------------------
+r2 | archivar | 2009-02-16 21:59:15 +0000 (Mon, 16 Feb 2009) | 1 line
+Changed paths:
+   A /trunk/PaintTheLeader.lua
+   A /trunk/PaintTheLeader.mod
+   A /trunk/PaintTheLeader.xml
+
+creating blank files
+------------------------------------------------------------------------
+r1 | root | 2009-02-16 21:50:52 +0000 (Mon, 16 Feb 2009) | 1 line
+Changed paths:
+   A /branches
+   A /tags
+   A /trunk
+
+"painttheleader/mainline: Initial Import"
+------------------------------------------------------------------------

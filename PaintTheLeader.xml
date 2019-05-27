@@ -1,0 +1,36 @@
+<Interface xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Interface.xsd">
+	<Scripts>
+		<Script file="PaintTheLeader.lua" />
+		<Script file="PaintTheLeaderSlash.lua" />
+	</Scripts>
+	<Assets>
+		<Texture name="star" file="star.dds" />
+	</Assets>  
+	<Windows>
+		<Window name="PTL_Window" popable="false" movable="true" handleinput="false">
+			<Size>
+				<AbsPoint x="106" y="30" />
+			</Size>
+			<Anchors>
+				<Anchor point="topleft" relativePoint="topleft" relativeTo="Root">
+					<AbsPoint x="280" y="220" />
+				</Anchor>
+			</Anchors>
+			<Windows>
+				<DynamicImage name="$parentBG" texture="star" layer="background">
+					<Anchors>
+						<Anchor point="center" relativePoint="center" relativeTo="PTL_Window" >
+							<AbsPoint x="0" y="-100" />
+						</Anchor>
+					</Anchors>
+					<TexCoords x="0" y="0" />
+					<TexDims x="256" y="256" />
+					<Size>
+						<AbsPoint x="100" y="100" />
+					</Size>
+				</DynamicImage>
+			</Windows>
+		</Window>
+	</Windows>
+</Interface>
+
